@@ -40,8 +40,8 @@
 
 ## 📈 Mes Stats GitHub
 
-![Ton pseudo GitHub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**TON_PSEUDO_GITHUB**&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**TON_PSEUDO_GITHUB**&layout=compact&theme=radical)
+![Ton pseudo GitHub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalhaK28&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaK28&layout=compact&theme=radical)
 
 ---
 
