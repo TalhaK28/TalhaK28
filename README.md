@@ -47,5 +47,5 @@
 
 ## 📫 Me contacter
 - ✉️ Email : [Talha.koytaviloglu@utbm.fr](mailto:Talha.koytaviloglu@utbm.fr)
-- 💼 LinkedIn : [Talha Koytaviloglu](https://www.linkedin.com/in/talha-koytaviloglu-70791a24b/)
+- 💼 LinkedIn : [Talha Koytaviloglu](https://www.linkedin.com/in/talhakoytaviloglu)
 
