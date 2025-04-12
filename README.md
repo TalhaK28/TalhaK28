@@ -21,6 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-3776AB?style=for-the-badge)
 ![VBA](https://img.shields.io/badge/VBA-00B900?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Frameworks / Technologies
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
@@ -29,6 +30,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-FFDD00?style=for-the-badge&logo=twig&logoColor=black)
 
 ### Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
